@@ -1,3 +1,3 @@
 - I’m @MichaelCorduroy
 - I like birdwatching and skateboarding
-- check me out on michaelcorduroy.com
+- i do stuff on michaelcorduroy.com

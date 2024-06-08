@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 22px"> #SWAG IS FOREVER</h1>
+<h1 align="center" style="font-size: 22px; opacity: 0.5;"> #SWAG IS FOREVER</h1>
 
 
 <h1 align="center" style="font-size: 22px">  </h1>

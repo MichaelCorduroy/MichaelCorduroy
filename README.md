@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-size: 22px; opacity: 0.5;"> #SWAG IS FOREVER</h1>
+<h1 align="center" style="font-size: 22px; opacity: 0.5;"> "As long the Earth, Sun, and Moon exist, everything will be alright."</h1>
 
 
 

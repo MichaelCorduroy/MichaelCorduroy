@@ -5,6 +5,8 @@
 <p style = "font-family: Courier;">-Yui Ikari</p>
 
 <a href = "https://michaelcorduroy.com">michaelcorduroy.com</a>
+<br>
+<p5> Latest work: Severe, Breadwinner, Conjure </p5>
 </div>
 
-<p5> Severe, Breadwinner, Conjure </p5>
+

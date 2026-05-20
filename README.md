@@ -6,7 +6,7 @@
 
 <a href = "https://michaelcorduroy.com">michaelcorduroy.com</a>
 <br>
-<p5> Latest work: Severe, Breadwinner, Conjure </p5>
+<p5> Latest work: Severe </p5>
 </div>
 
 

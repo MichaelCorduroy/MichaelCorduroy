@@ -6,7 +6,7 @@
 
 <a href = "https://michaelcorduroy.com">michaelcorduroy.com</a>
 <br>
-<p5> Latest work: Severe </p5>
+<p5> Latest work: Severe (www.severedaw.com)</p5>
 </div>
 
 
